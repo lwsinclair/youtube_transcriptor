@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rvydhya-youtube-transcriptor-badge.png)](https://mseep.ai/app/rvydhya-youtube-transcriptor)
+
 # YouTube Transcriptor MCP Tool
 
 This is a Model Context Protocol (MCP) tool for transcribing YouTube videos using the `youtube-transcript-api`.
